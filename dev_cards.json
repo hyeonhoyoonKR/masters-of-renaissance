@@ -1,0 +1,1346 @@
+[
+	{
+		"id": 0,
+		"level": 1,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 1
+	},
+	{
+		"id": 1,
+		"level": 1,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 1,
+				"shield": 1
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 2
+	},
+	{
+		"id": 2,
+		"level": 1,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 3
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 1,
+				"servant": 0,
+				"shield": 1,
+				"faith": 0
+			},
+		"points": 3
+	},
+	{
+		"id": 3,
+		"level": 1,
+		"color": "green",
+		"cost":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 4
+	},
+	{
+		"id": 4,
+		"level": 1,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 1
+	},
+	{
+		"id": 5,
+		"level": 1,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 1,
+				"rock": 1,
+				"servant": 0,
+				"shield": 1
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 2
+	},
+	{
+		"id": 6,
+		"level": 1,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 1,
+				"servant": 1,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 3
+	},
+	{
+		"id": 7,
+		"level": 1,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 2
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2,
+				"faith": 1
+			},
+		"points": 4
+	},
+	{
+		"id": 8,
+		"level": 1,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 1
+	},
+	{
+		"id": 9,
+		"level": 1,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 1,
+				"rock": 1,
+				"servant": 1,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 2
+	},
+	{
+		"id": 10,
+		"level": 1,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 3,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 1,
+				"shield": 1,
+				"faith": 0
+			},
+		"points": 3
+	},
+	{
+		"id": 11,
+		"level": 1,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 4
+	},
+	{
+		"id": 12,
+		"level": 1,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 1
+	},
+	{
+		"id": 13,
+		"level": 1,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 1,
+				"shield": 1
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1,
+				"faith": 0
+			},
+		"points": 2
+	},
+	{
+		"id": 14,
+		"level": 1,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 3,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 1,
+				"shield": 1,
+				"faith": 0
+			},
+		"points": 3
+	},
+	{
+		"id": 15,
+		"level": 1,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 2,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 4
+	},
+	{
+		"id": 16,
+		"level": 2,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 4
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 5
+	},
+	{
+		"id": 17,
+		"level": 2,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 3
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 0,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 6
+	},
+	{
+		"id": 18,
+		"level": 2,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 5
+			},
+		"input":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 7
+	},
+	{
+		"id": 19,
+		"level": 2,
+		"color": "green",
+		"cost":
+			{
+				"coin": 3,
+				"rock": 0,
+				"servant": 0,
+				"shield": 3
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2,
+				"faith": 1
+			},
+		"points": 8
+	},
+	{
+		"id": 20,
+		"level": 2,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 4,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 5
+	},
+	{
+		"id": 21,
+		"level": 2,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 0,
+				"shield": 2
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 3,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 6
+	},
+	{
+		"id": 22,
+		"level": 2,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 5,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 7
+	},
+	{
+		"id": 23,
+		"level": 2,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 3,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 8
+	},
+	{
+		"id": 24,
+		"level": 2,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 4,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 5
+	},
+	{
+		"id": 25,
+		"level": 2,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 3,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 3,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 6
+	},
+	{
+		"id": 26,
+		"level": 2,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 5,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2,
+				"faith": 2
+			},
+		"points": 7
+	},
+	{
+		"id": 27,
+		"level": 2,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 3,
+				"rock": 3,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 8
+	},
+	{
+		"id": 28,
+		"level": 2,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 4,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 5
+	},
+	{
+		"id": 29,
+		"level": 2,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 3,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 3,
+				"faith": 0
+			},
+		"points": 6
+	},
+	{
+		"id": 30,
+		"level": 2,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 5,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 7
+	},
+	{
+		"id": 31,
+		"level": 2,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 3,
+				"shield": 3
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 8
+	},
+	{
+		"id": 32,
+		"level": 3,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 6
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 9
+	},
+	{
+		"id": 33,
+		"level": 3,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 5
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 2,
+				"faith": 1
+			},
+		"points": 10
+	},
+	{
+		"id": 34,
+		"level": 3,
+		"color": "green",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 7
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 3
+			},
+		"points": 11
+	},
+	{
+		"id": 35,
+		"level": 3,
+		"color": "green",
+		"cost":
+			{
+				"coin": 4,
+				"rock": 0,
+				"servant": 0,
+				"shield": 4
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 3,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1,
+				"faith": 0
+			},
+		"points": 12
+	},
+	{
+		"id": 36,
+		"level": 3,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 6,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 3,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 9
+	},
+	{
+		"id": 37,
+		"level": 3,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 5,
+				"servant": 2,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 0,
+				"shield": 2,
+				"faith": 1
+			},
+		"points": 10
+	},
+	{
+		"id": 38,
+		"level": 3,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 7,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0,
+				"faith": 3
+			},
+		"points": 11
+	},
+	{
+		"id": 39,
+		"level": 3,
+		"color": "yellow",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 4,
+				"servant": 4,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 3,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 12
+	},
+	{
+		"id": 40,
+		"level": 3,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 6,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 3,
+				"faith": 2
+			},
+		"points": 9
+	},
+	{
+		"id": 41,
+		"level": 3,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 5,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 2,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 10
+	},
+	{
+		"id": 42,
+		"level": 3,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 7,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 0,
+				"shield": 1,
+				"faith": 3
+			},
+		"points": 11
+	},
+	{
+		"id": 43,
+		"level": 3,
+		"color": "blue",
+		"cost":
+			{
+				"coin": 4,
+				"rock": 4,
+				"servant": 0,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 1,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 3,
+				"faith": 0
+			},
+		"points": 12
+	},
+	{
+		"id": 44,
+		"level": 3,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 6,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 2,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 3,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0,
+				"faith": 2
+			},
+		"points": 9
+	},
+	{
+		"id": 45,
+		"level": 3,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 5,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 1
+			},
+		"output":
+			{
+				"coin": 2,
+				"rock": 0,
+				"servant": 2,
+				"shield": 0,
+				"faith": 1
+			},
+		"points": 10
+	},
+	{
+		"id": 46,
+		"level": 3,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 7,
+				"shield": 0
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 1,
+				"servant": 0,
+				"shield": 0,
+				"faith": 3
+			},
+		"points": 11
+	},
+	{
+		"id": 47,
+		"level": 3,
+		"color": "purple",
+		"cost":
+			{
+				"coin": 0,
+				"rock": 0,
+				"servant": 4,
+				"shield": 4
+			},
+		"input":
+			{
+				"coin": 1,
+				"rock": 0,
+				"servant": 0,
+				"shield": 0
+			},
+		"output":
+			{
+				"coin": 0,
+				"rock": 3,
+				"servant": 1,
+				"shield": 0,
+				"faith": 0
+			},
+		"points": 12
+	}
+]
